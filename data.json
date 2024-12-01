@@ -1,0 +1,101 @@
+[
+  {
+    "month": "January",
+    "total": 5200,
+    "categories": [
+      { "name": "Groceries", "amount": 1500 },
+      { "name": "Transportation", "amount": 2000 },
+      { "name": "Utilities", "amount": 1700 }
+    ]
+  },
+  {
+    "month": "February",
+    "total": 4800,
+    "categories": [
+      { "name": "Groceries", "amount": 1300 },
+      { "name": "Entertainment", "amount": 2000 },
+      { "name": "Healthcare", "amount": 1500 }
+    ]
+  },
+  {
+    "month": "March",
+    "total": 5500,
+    "categories": [
+      { "name": "Groceries", "amount": 2000 },
+      { "name": "Dining", "amount": 1500 },
+      { "name": "Transportation", "amount": 2000 }
+    ]
+  },
+  {
+    "month": "April",
+    "total": 4900,
+    "categories": [
+      { "name": "Groceries", "amount": 1500 },
+      { "name": "Utilities", "amount": 1900 },
+      { "name": "Healthcare", "amount": 1500 }
+    ]
+  },
+  {
+    "month": "May",
+    "total": 5200,
+    "categories": [
+      { "name": "Groceries", "amount": 1800 },
+      { "name": "Transportation", "amount": 2000 },
+      { "name": "Entertainment", "amount": 1400 }
+    ]
+  },
+  {
+    "month": "June",
+    "total": 4700,
+    "categories": [
+      { "name": "Groceries", "amount": 1600 },
+      { "name": "Dining", "amount": 1500 },
+      { "name": "Utilities", "amount": 1600 }
+    ]
+  },
+  {
+    "month": "July",
+    "total": 5300,
+    "categories": [
+      { "name": "Groceries", "amount": 2000 },
+      { "name": "Transportation", "amount": 1800 },
+      { "name": "Entertainment", "amount": 1500 }
+    ]
+  },
+  {
+    "month": "August",
+    "total": 5100,
+    "categories": [
+      { "name": "Groceries", "amount": 1800 },
+      { "name": "Utilities", "amount": 1800 },
+      { "name": "Healthcare", "amount": 1500 }
+    ]
+  },
+  {
+    "month": "September",
+    "total": 5000,
+    "categories": [
+      { "name": "Groceries", "amount": 1700 },
+      { "name": "Dining", "amount": 1500 },
+      { "name": "Transportation", "amount": 1800 }
+    ]
+  },
+  {
+    "month": "October",
+    "total": 5200,
+    "categories": [
+      { "name": "Groceries", "amount": 1800 },
+      { "name": "Utilities", "amount": 2000 },
+      { "name": "Entertainment", "amount": 1400 }
+    ]
+  },
+  {
+    "month": "November",
+    "total": 4900,
+    "categories": [
+      { "name": "Groceries", "amount": 1600 },
+      { "name": "Healthcare", "amount": 1800 },
+      { "name": "Dining", "amount": 1500 }
+    ]
+  }
+]
