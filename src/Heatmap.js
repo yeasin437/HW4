@@ -14,7 +14,7 @@ const Heatmap = () => {
 
   return (
     <div>
-      <h1>Yearly Calendar Heatmap</h1>
+      <h1>Monthly Transaction Calendar</h1>
       <div className="heatmap">
         {data.map((monthData, index) => (
           <div
